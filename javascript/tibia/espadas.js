@@ -21,7 +21,7 @@ export const espadas = [
         id: 4, 
         nome: "Espada de aço negro", 
         ataque: 13, 
-        img: "https://www.tibiawiki.com.br/images/4/4c/Fire_Sword.gif" 
+        img: "https://www.tibiawiki.com.br/images/a/a1/Gilded_Eldritch_Claymore.gif" 
     },
     { 
         id: 5, 
