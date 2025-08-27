@@ -1,0 +1,6 @@
+CREATE DATABASE pokemons;
+
+CREATE TABLE list_pokemons (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nome VARCHAR(30) NOT NULL
+);
